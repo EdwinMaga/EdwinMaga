@@ -10,7 +10,14 @@
 
 ---
 
-## 🚀 Tecnologías principales
+## 🚀 Demo en vivo
+
+🎯 Puedes probar uno de mis proyectos fullstack aquí:  
+🔗 [task-manager-frontend.vercel.app](https://task-manager-frontend-rose-gamma.vercel.app)
+
+---
+
+## 🛠️ Tecnologías principales
 
 - **Backend:** Python, FastAPI, Java, Spring Boot
 - **Frontend:** JavaScript, HTML, CSS, React, Angular
