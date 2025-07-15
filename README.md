@@ -12,7 +12,7 @@
 
 ## 🚀 Tecnologías principales
 
-- **Backend:** Python, FastAPI, Spring Boot
+- **Backend:** Python, FastAPI, Java, Spring Boot
 - **Frontend:** JavaScript, HTML, CSS, React, Angular
 - **Bases de datos:** Firestore, PostgreSQL, BigQuery, MySQL
 - **Dev Tools:** Git, GitHub, Swagger, Postman, Looker Studio
@@ -42,7 +42,7 @@ Frontend desarrollado en React con consumo real de API, control de token y CRUD 
 ## 📫 Contacto
 
 - GitHub: [github.com/edwinmaga](https://github.com/edwinmaga)
-- LinkedIn: [linkedin.com/in/edwinmaga](https://www.linkedin.com/in/edwinmaga) _(si tienes, lo agregamos)_
+- LinkedIn: [linkedin.com/in/edwin-genaro-magadan-araballo-6a0a72253](https://www.linkedin.com/in/edwin-genaro-magadan-araballo-6a0a72253)
 - Correo: magadan841@gmail.com
 
 ---
