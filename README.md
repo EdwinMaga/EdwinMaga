@@ -49,7 +49,7 @@ Frontend desarrollado en React con consumo real de API, control de token y CRUD 
 ## 📫 Contacto
 
 - GitHub: [github.com/edwinmaga](https://github.com/edwinmaga)
-- LinkedIn: [linkedin.com/in/edwin-genaro-magadan-araballo-6a0a72253](https://www.linkedin.com/in/edwin-genaro-magadan-araballo-6a0a72253)
+- LinkedIn: [linkedin.com/in/edwin-genaro-magadan-araballo-6a0a72253](https://www.linkedin.com/in/edwinmagadan)
 - Correo: magadan841@gmail.com
 
 ---
